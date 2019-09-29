@@ -1,0 +1,2050 @@
+{
+    "meta": {
+        "geolocation": null,
+        "per_page": 10,
+        "total": 23545,
+        "took": 5,
+        "page": 1
+    },
+    "in_hand": {},
+    "events": [
+        {
+            "links": [],
+            "event_promotion": null,
+            "conditional": false,
+            "is_open": false,
+            "id": 4980918,
+            "stats": {
+                "visible_listing_count": 1,
+                "dq_bucket_counts": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "average_price": 96,
+                "lowest_sg_base_price_good_deals": null,
+                "lowest_price_good_deals": null,
+                "median_price": 96,
+                "listing_count": 1,
+                "variants": null,
+                "lowest_price": 96,
+                "lowest_sg_base_price": 72,
+                "highest_price": 96
+            },
+            "title": "ESL One New York (2 Day Pass)",
+            "announce_date": "2019-05-02T00:00:00",
+            "score": 0.425,
+            "access_method": {
+                "employee_only": false,
+                "created_at": "2018-08-31T16:32:29Z",
+                "method": "QRCODE_TM"
+            },
+            "announcements": {
+                "checkout_disclosures": {
+                    "messages": [
+                        {
+                            "text": "All purchases are 100% guaranteed. Prices set by the seller may be above or below face value."
+                        }
+                    ]
+                }
+            },
+            "taxonomies": [
+                {
+                    "name": "sports",
+                    "parent_id": null,
+                    "id": 1000000
+                }
+            ],
+            "type": "sports",
+            "status": "normal",
+            "description": "",
+            "datetime_local": "2019-09-28T03:30:00",
+            "visible_until_utc": "2019-09-29T04:00:00",
+            "time_tbd": true,
+            "date_tbd": false,
+            "performers": [
+                {
+                    "image": null,
+                    "colors": null,
+                    "images": {},
+                    "has_upcoming_events": true,
+                    "id": 290034,
+                    "stats": {
+                        "event_count": 4
+                    },
+                    "image_license": null,
+                    "score": 0.46,
+                    "location": null,
+                    "taxonomies": [
+                        {
+                            "name": "theater",
+                            "parent_id": null,
+                            "id": 3000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "type": "theater",
+                    "num_upcoming_events": 4,
+                    "short_name": "ESL One",
+                    "home_venue_id": null,
+                    "slug": "esl-one",
+                    "divisions": null,
+                    "name": "ESL One",
+                    "url": "https://seatgeek.com/esl-one-tickets",
+                    "popularity": 0,
+                    "image_attribution": null
+                },
+                {
+                    "image": "https://seatgeek.com/images/performers-landscape/esl-1-b43f5d/607281/huge.jpg",
+                    "primary": true,
+                    "colors": null,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/esl-1-b43f5d/607281/huge.jpg"
+                    },
+                    "has_upcoming_events": true,
+                    "id": 607281,
+                    "stats": {
+                        "event_count": 3
+                    },
+                    "image_license": "null",
+                    "score": 0.39,
+                    "location": null,
+                    "taxonomies": [
+                        {
+                            "name": "sports",
+                            "parent_id": null,
+                            "id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "type": "sports",
+                    "num_upcoming_events": 3,
+                    "short_name": "ESL",
+                    "home_venue_id": null,
+                    "slug": "esl-1",
+                    "divisions": null,
+                    "name": "ESL",
+                    "url": "https://seatgeek.com/esl-1-tickets",
+                    "popularity": 0,
+                    "image_attribution": "null"
+                }
+            ],
+            "url": "https://seatgeek.com/esl-one-new-york-2-day-pass-tickets/sport/2019-09-28-3-30-am/4980918",
+            "created_at": "2019-09-03T17:32:57",
+            "popularity": 0.603,
+            "venue": {
+                "links": [],
+                "metro_code": 501,
+                "postal_code": "11217",
+                "timezone": "America/New_York",
+                "has_upcoming_events": true,
+                "id": 7546,
+                "city": "Brooklyn",
+                "extended_address": "Brooklyn, NY 11217",
+                "display_location": "Brooklyn, NY",
+                "state": "NY",
+                "score": 0.83077735,
+                "location": {
+                    "lat": 40.6827,
+                    "lon": -73.9753
+                },
+                "access_method": {
+                    "employee_only": false,
+                    "created_at": "2018-08-31T16:32:29Z",
+                    "method": "QRCODE_TM"
+                },
+                "num_upcoming_events": 116,
+                "address": "620 Atlantic Avenue",
+                "capacity": 19000,
+                "slug": "barclays-center",
+                "name": "Barclays Center",
+                "url": "https://seatgeek.com/venues/barclays-center/tickets",
+                "country": "US",
+                "popularity": 0,
+                "name_v2": "Barclays Center"
+            },
+            "enddatetime_utc": null,
+            "short_title": "ESL One New York (2 Day Pass)",
+            "datetime_utc": "2019-09-28T07:30:00",
+            "datetime_tbd": false
+        },
+        {
+            "links": [],
+            "event_promotion": null,
+            "conditional": false,
+            "is_open": false,
+            "id": 4930123,
+            "stats": {
+                "visible_listing_count": 1,
+                "dq_bucket_counts": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "average_price": 33,
+                "lowest_sg_base_price_good_deals": null,
+                "lowest_price_good_deals": null,
+                "median_price": 33,
+                "listing_count": 1,
+                "variants": null,
+                "lowest_price": 33,
+                "lowest_sg_base_price": 24,
+                "highest_price": 33
+            },
+            "title": "Brown Bears at Harvard Crimson Hockey",
+            "announce_date": "2019-07-18T00:00:00",
+            "score": 0.306,
+            "access_method": null,
+            "announcements": {},
+            "taxonomies": [
+                {
+                    "name": "sports",
+                    "parent_id": null,
+                    "id": 1000000
+                },
+                {
+                    "name": "hockey",
+                    "parent_id": 1000000,
+                    "id": 1040000
+                },
+                {
+                    "name": "ncaa_hockey",
+                    "parent_id": 1040000,
+                    "id": 1040200
+                }
+            ],
+            "type": "ncaa_hockey",
+            "status": "normal",
+            "description": "",
+            "datetime_local": "2019-09-28T03:30:00",
+            "visible_until_utc": "2019-09-29T04:00:00",
+            "time_tbd": true,
+            "date_tbd": false,
+            "performers": [
+                {
+                    "image": "https://seatgeek.com/images/performers-landscape/harvard-crimson-hockey-430b71/9829/huge.jpg",
+                    "primary": true,
+                    "colors": null,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/harvard-crimson-hockey-430b71/9829/huge.jpg"
+                    },
+                    "has_upcoming_events": true,
+                    "id": 9829,
+                    "stats": {
+                        "event_count": 24
+                    },
+                    "image_license": null,
+                    "score": 0.54,
+                    "location": {
+                        "lat": 42.3683,
+                        "lon": -71.1272
+                    },
+                    "taxonomies": [
+                        {
+                            "name": "sports",
+                            "parent_id": null,
+                            "id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "name": "hockey",
+                            "parent_id": 1000000,
+                            "id": 1040000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "name": "ncaa_hockey",
+                            "parent_id": 1040000,
+                            "id": 1040200,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "type": "ncaa_hockey",
+                    "num_upcoming_events": 24,
+                    "short_name": "Harvard",
+                    "home_venue_id": 5540,
+                    "slug": "harvard-crimson-hockey",
+                    "divisions": null,
+                    "home_team": true,
+                    "name": "Harvard Crimson Hockey",
+                    "url": "https://seatgeek.com/harvard-crimson-hockey-tickets",
+                    "popularity": 0,
+                    "image_attribution": "http://gocrimson.com/sports/mice/2011-12/photos/0002/IHM_1112_Michalek_Steve_114.jpg"
+                },
+                {
+                    "image": null,
+                    "colors": null,
+                    "images": {},
+                    "has_upcoming_events": true,
+                    "id": 9837,
+                    "away_team": true,
+                    "stats": {
+                        "event_count": 30
+                    },
+                    "image_license": null,
+                    "score": 0.34,
+                    "location": {
+                        "lat": 41.8423,
+                        "lon": -71.3939
+                    },
+                    "taxonomies": [
+                        {
+                            "name": "sports",
+                            "parent_id": null,
+                            "id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "name": "hockey",
+                            "parent_id": 1000000,
+                            "id": 1040000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "name": "ncaa_hockey",
+                            "parent_id": 1040000,
+                            "id": 1040200,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "type": "ncaa_hockey",
+                    "num_upcoming_events": 30,
+                    "short_name": "Brown Bears",
+                    "home_venue_id": 5544,
+                    "slug": "brown-bears-hockey",
+                    "divisions": null,
+                    "name": "Brown Bears Hockey",
+                    "url": "https://seatgeek.com/brown-bears-hockey-tickets",
+                    "popularity": 0,
+                    "image_attribution": null
+                }
+            ],
+            "url": "https://seatgeek.com/brown-bears-at-harvard-crimson-hockey-tickets/ncaa-hockey/2019-09-28-3-30-am/4930123",
+            "created_at": "2019-07-18T16:00:12",
+            "popularity": 0.428,
+            "venue": {
+                "links": [],
+                "metro_code": 506,
+                "postal_code": "02134",
+                "timezone": "America/New_York",
+                "has_upcoming_events": true,
+                "id": 5836,
+                "city": "Allston",
+                "extended_address": "Allston, MA 02134",
+                "display_location": "Allston, MA",
+                "state": "MA",
+                "score": 0.58524257,
+                "location": {
+                    "lat": 42.3655,
+                    "lon": -71.1268
+                },
+                "access_method": null,
+                "num_upcoming_events": 6,
+                "address": "95 N Harvard St",
+                "capacity": 30323,
+                "slug": "harvard-stadium",
+                "name": "Harvard Stadium",
+                "url": "https://seatgeek.com/venues/harvard-stadium/tickets",
+                "country": "US",
+                "popularity": 0,
+                "name_v2": "Harvard Stadium"
+            },
+            "enddatetime_utc": null,
+            "short_title": "Brown Bears at Harvard Crimson Hockey",
+            "datetime_utc": "2019-09-28T07:30:00",
+            "datetime_tbd": false
+        },
+        {
+            "links": [],
+            "event_promotion": null,
+            "conditional": false,
+            "is_open": false,
+            "id": 4720015,
+            "stats": {
+                "visible_listing_count": null,
+                "dq_bucket_counts": null,
+                "average_price": null,
+                "lowest_sg_base_price_good_deals": null,
+                "lowest_price_good_deals": null,
+                "median_price": null,
+                "listing_count": null,
+                "variants": null,
+                "lowest_price": null,
+                "lowest_sg_base_price": null,
+                "highest_price": null
+            },
+            "title": "Wofford Terriers at VMI Keydets Football",
+            "announce_date": "2019-02-03T00:00:00",
+            "score": 0,
+            "access_method": null,
+            "announcements": {},
+            "taxonomies": [
+                {
+                    "name": "sports",
+                    "parent_id": null,
+                    "id": 1000000
+                },
+                {
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "id": 1020000
+                },
+                {
+                    "name": "ncaa_football",
+                    "parent_id": 1020000,
+                    "id": 1020200
+                }
+            ],
+            "type": "ncaa_football",
+            "status": "normal",
+            "description": "",
+            "datetime_local": "2019-09-28T13:30:00",
+            "visible_until_utc": "2019-09-28T21:30:00",
+            "time_tbd": false,
+            "date_tbd": false,
+            "performers": [
+                {
+                    "image": null,
+                    "colors": {
+                        "all": [
+                            "#191919",
+                            "#886E4C",
+                            "#886E4C"
+                        ],
+                        "iconic": "#886E4C",
+                        "primary": [
+                            "#191919",
+                            "#886E4C"
+                        ]
+                    },
+                    "images": {},
+                    "has_upcoming_events": true,
+                    "id": 7426,
+                    "away_team": true,
+                    "stats": {
+                        "event_count": 10
+                    },
+                    "image_license": null,
+                    "score": 0.68,
+                    "location": {
+                        "lat": 34.9575,
+                        "lon": -81.9377
+                    },
+                    "taxonomies": [
+                        {
+                            "name": "sports",
+                            "parent_id": null,
+                            "id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "name": "football",
+                            "parent_id": 1000000,
+                            "id": 1020000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "name": "ncaa_football",
+                            "parent_id": 1020000,
+                            "id": 1020200,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "type": "ncaa_football",
+                    "num_upcoming_events": 10,
+                    "short_name": "Wofford",
+                    "home_venue_id": 5980,
+                    "slug": "wofford-terriers-football",
+                    "divisions": [
+                        {
+                            "display_name": "Championship Subdivision",
+                            "short_name": null,
+                            "division_level": 1,
+                            "display_type": "Division",
+                            "taxonomy_id": 1020200,
+                            "slug": null
+                        },
+                        {
+                            "display_name": "Southern",
+                            "short_name": "Southern",
+                            "division_level": 2,
+                            "display_type": "Conference",
+                            "taxonomy_id": 1020200,
+                            "slug": "southern"
+                        }
+                    ],
+                    "name": "Wofford Terriers Football",
+                    "url": "https://seatgeek.com/wofford-terriers-football-tickets",
+                    "popularity": 0,
+                    "image_attribution": null
+                },
+                {
+                    "image": null,
+                    "primary": true,
+                    "colors": null,
+                    "images": {},
+                    "has_upcoming_events": true,
+                    "id": 10126,
+                    "stats": {
+                        "event_count": 10
+                    },
+                    "image_license": null,
+                    "score": 0.59,
+                    "location": {
+                        "lat": 37.789,
+                        "lon": -79.4351
+                    },
+                    "taxonomies": [
+                        {
+                            "name": "sports",
+                            "parent_id": null,
+                            "id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "name": "football",
+                            "parent_id": 1000000,
+                            "id": 1020000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "name": "ncaa_football",
+                            "parent_id": 1020000,
+                            "id": 1020200,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "type": "ncaa_football",
+                    "num_upcoming_events": 10,
+                    "short_name": "VMI",
+                    "home_venue_id": 5913,
+                    "slug": "vmi-keydets-football",
+                    "divisions": [
+                        {
+                            "display_name": "Championship Subdivision",
+                            "short_name": null,
+                            "division_level": 1,
+                            "display_type": "Division",
+                            "taxonomy_id": 1020200,
+                            "slug": null
+                        },
+                        {
+                            "display_name": "Southern",
+                            "short_name": "Southern",
+                            "division_level": 2,
+                            "display_type": "Conference",
+                            "taxonomy_id": 1020200,
+                            "slug": "southern"
+                        }
+                    ],
+                    "home_team": true,
+                    "name": "VMI Keydets Football",
+                    "url": "https://seatgeek.com/vmi-keydets-football-tickets",
+                    "popularity": 0,
+                    "image_attribution": null
+                }
+            ],
+            "url": "https://seatgeek.com/wofford-terriers-at-vmi-keydets-football-tickets/ncaa-football/2019-09-28-1-30-pm/4720015",
+            "created_at": "2019-02-03T16:01:48",
+            "popularity": 0,
+            "venue": {
+                "links": [],
+                "metro_code": 573,
+                "postal_code": "24450",
+                "timezone": "America/New_York",
+                "has_upcoming_events": true,
+                "id": 5913,
+                "city": "Lexington",
+                "extended_address": "Lexington, VA 24450",
+                "display_location": "Lexington, VA",
+                "state": "VA",
+                "score": 0,
+                "location": {
+                    "lat": 37.789,
+                    "lon": -79.4351
+                },
+                "access_method": null,
+                "num_upcoming_events": 5,
+                "address": "309 Letcher Avenue",
+                "capacity": 0,
+                "slug": "alumni-memorial-field",
+                "name": "Alumni Memorial Field",
+                "url": "https://seatgeek.com/venues/alumni-memorial-field/tickets",
+                "country": "US",
+                "popularity": 0,
+                "name_v2": "Alumni Memorial Field"
+            },
+            "enddatetime_utc": null,
+            "short_title": "Wofford at VMI",
+            "datetime_utc": "2019-09-28T17:30:00",
+            "datetime_tbd": false
+        },
+        {
+            "links": [],
+            "event_promotion": null,
+            "conditional": false,
+            "is_open": false,
+            "id": 4742534,
+            "stats": {
+                "visible_listing_count": 2,
+                "dq_bucket_counts": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "average_price": 69,
+                "lowest_sg_base_price_good_deals": null,
+                "lowest_price_good_deals": null,
+                "median_price": 66,
+                "listing_count": 2,
+                "variants": null,
+                "lowest_price": 66,
+                "lowest_sg_base_price": 48,
+                "highest_price": 72
+            },
+            "title": "James Madison Dukes at Elon Phoenix Football",
+            "announce_date": "2019-02-11T00:00:00",
+            "score": 0.375,
+            "access_method": null,
+            "announcements": {},
+            "taxonomies": [
+                {
+                    "name": "sports",
+                    "parent_id": null,
+                    "id": 1000000
+                },
+                {
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "id": 1020000
+                },
+                {
+                    "name": "ncaa_football",
+                    "parent_id": 1020000,
+                    "id": 1020200
+                }
+            ],
+            "type": "ncaa_football",
+            "status": "normal",
+            "description": "",
+            "datetime_local": "2019-09-28T14:00:00",
+            "visible_until_utc": "2019-09-28T22:00:00",
+            "time_tbd": false,
+            "date_tbd": false,
+            "performers": [
+                {
+                    "image": null,
+                    "primary": true,
+                    "colors": null,
+                    "images": {},
+                    "has_upcoming_events": true,
+                    "id": 5599,
+                    "stats": {
+                        "event_count": 10
+                    },
+                    "image_license": null,
+                    "score": 0.51,
+                    "location": {
+                        "lat": 36.1058,
+                        "lon": -79.5078
+                    },
+                    "taxonomies": [
+                        {
+                            "name": "sports",
+                            "parent_id": null,
+                            "id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "name": "football",
+                            "parent_id": 1000000,
+                            "id": 1020000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "name": "ncaa_football",
+                            "parent_id": 1020000,
+                            "id": 1020200,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "type": "ncaa_football",
+                    "num_upcoming_events": 10,
+                    "short_name": "Elon",
+                    "home_venue_id": 5977,
+                    "slug": "elon-phoenix-football",
+                    "divisions": [
+                        {
+                            "display_name": "Championship Subdivision",
+                            "short_name": null,
+                            "division_level": 1,
+                            "display_type": "Division",
+                            "taxonomy_id": 1020200,
+                            "slug": null
+                        },
+                        {
+                            "display_name": "Colonial Athletic Association",
+                            "short_name": "Colonial Athletic Association",
+                            "division_level": 2,
+                            "display_type": "Conference",
+                            "taxonomy_id": 1020200,
+                            "slug": "colonial-athletic-association"
+                        }
+                    ],
+                    "home_team": true,
+                    "name": "Elon Phoenix Football",
+                    "url": "https://seatgeek.com/elon-phoenix-football-tickets",
+                    "popularity": 0,
+                    "image_attribution": null
+                },
+                {
+                    "image": null,
+                    "colors": null,
+                    "images": {},
+                    "has_upcoming_events": true,
+                    "id": 5606,
+                    "away_team": true,
+                    "stats": {
+                        "event_count": 11
+                    },
+                    "image_license": null,
+                    "score": 0.62,
+                    "location": {
+                        "lat": 38.4353,
+                        "lon": -78.8729
+                    },
+                    "taxonomies": [
+                        {
+                            "name": "sports",
+                            "parent_id": null,
+                            "id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "name": "football",
+                            "parent_id": 1000000,
+                            "id": 1020000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "name": "ncaa_football",
+                            "parent_id": 1020000,
+                            "id": 1020200,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "type": "ncaa_football",
+                    "num_upcoming_events": 11,
+                    "short_name": "James Madison",
+                    "home_venue_id": 6029,
+                    "slug": "james-madison-dukes-football",
+                    "divisions": [
+                        {
+                            "display_name": "Championship Subdivision",
+                            "short_name": null,
+                            "division_level": 1,
+                            "display_type": "Division",
+                            "taxonomy_id": 1020200,
+                            "slug": null
+                        },
+                        {
+                            "display_name": "Colonial Athletic Association",
+                            "short_name": "Colonial Athletic Association",
+                            "division_level": 2,
+                            "display_type": "Conference",
+                            "taxonomy_id": 1020200,
+                            "slug": "colonial-athletic-association"
+                        }
+                    ],
+                    "name": "James Madison Dukes Football",
+                    "url": "https://seatgeek.com/james-madison-dukes-football-tickets",
+                    "popularity": 0,
+                    "image_attribution": null
+                }
+            ],
+            "url": "https://seatgeek.com/james-madison-dukes-at-elon-phoenix-football-tickets/ncaa-football/2019-09-28-2-pm/4742534",
+            "created_at": "2019-02-11T16:00:44",
+            "popularity": 0.474,
+            "venue": {
+                "links": [],
+                "metro_code": 518,
+                "postal_code": "27244",
+                "timezone": "America/New_York",
+                "has_upcoming_events": true,
+                "id": 5977,
+                "city": "Elon",
+                "extended_address": "Elon, NC 27244",
+                "display_location": "Elon, NC",
+                "state": "NC",
+                "score": 0.3447207,
+                "location": {
+                    "lat": 36.1058,
+                    "lon": -79.5078
+                },
+                "access_method": null,
+                "num_upcoming_events": 5,
+                "address": "543 N Williamson Ave",
+                "capacity": 0,
+                "slug": "rhodes-stadium",
+                "name": "Rhodes Stadium",
+                "url": "https://seatgeek.com/venues/rhodes-stadium/tickets",
+                "country": "US",
+                "popularity": 0,
+                "name_v2": "Rhodes Stadium"
+            },
+            "enddatetime_utc": null,
+            "short_title": "James Madison at Elon",
+            "datetime_utc": "2019-09-28T18:00:00",
+            "datetime_tbd": false
+        },
+        {
+            "links": [],
+            "event_promotion": null,
+            "conditional": false,
+            "is_open": false,
+            "id": 4865406,
+            "stats": {
+                "visible_listing_count": 1,
+                "dq_bucket_counts": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "average_price": 53,
+                "lowest_sg_base_price_good_deals": null,
+                "lowest_price_good_deals": null,
+                "median_price": 53,
+                "listing_count": 1,
+                "variants": null,
+                "lowest_price": 53,
+                "lowest_sg_base_price": 39,
+                "highest_price": 53
+            },
+            "title": "Texas Longhorns at Texas Longhorns Volleyball",
+            "announce_date": "2019-05-15T00:00:00",
+            "score": 0.397,
+            "access_method": null,
+            "announcements": {},
+            "taxonomies": [
+                {
+                    "name": "sports",
+                    "parent_id": null,
+                    "id": 1000000
+                }
+            ],
+            "type": "sports",
+            "status": "normal",
+            "description": "",
+            "datetime_local": "2019-09-28T13:00:00",
+            "visible_until_utc": "2019-09-28T22:00:00",
+            "time_tbd": false,
+            "date_tbd": false,
+            "performers": [
+                {
+                    "image": "https://seatgeek.com/images/performers-landscape/texas-longhorns-volleyball-dee492/287697/huge.jpg",
+                    "primary": true,
+                    "colors": null,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/texas-longhorns-volleyball-dee492/287697/huge.jpg"
+                    },
+                    "has_upcoming_events": true,
+                    "id": 287697,
+                    "stats": {
+                        "event_count": 11
+                    },
+                    "image_license": "null",
+                    "score": 0.37,
+                    "location": null,
+                    "taxonomies": [
+                        {
+                            "name": "sports",
+                            "parent_id": null,
+                            "id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "type": "sports",
+                    "num_upcoming_events": 11,
+                    "short_name": "Texas Longhorns Volleyball",
+                    "home_venue_id": null,
+                    "slug": "texas-longhorns-volleyball",
+                    "divisions": null,
+                    "name": "Texas Longhorns Volleyball",
+                    "url": "https://seatgeek.com/texas-longhorns-volleyball-tickets",
+                    "popularity": 0,
+                    "image_attribution": "null"
+                },
+                {
+                    "image": null,
+                    "colors": null,
+                    "images": {},
+                    "has_upcoming_events": true,
+                    "id": 637363,
+                    "stats": {
+                        "event_count": 5
+                    },
+                    "image_license": null,
+                    "score": 0.37,
+                    "location": null,
+                    "taxonomies": [
+                        {
+                            "name": "sports",
+                            "parent_id": null,
+                            "id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "type": "sports",
+                    "num_upcoming_events": 5,
+                    "short_name": "Texas Longhorns Women's Volleyball",
+                    "home_venue_id": null,
+                    "slug": "texas-longhorns-women-s-volleyball",
+                    "divisions": null,
+                    "name": "Texas Longhorns Women's Volleyball",
+                    "url": "https://seatgeek.com/texas-longhorns-women-s-volleyball-tickets",
+                    "popularity": 0,
+                    "image_attribution": null
+                }
+            ],
+            "url": "https://seatgeek.com/texas-longhorns-at-texas-longhorns-volleyball-tickets/sport/2019-09-28-1-pm/4865406",
+            "created_at": "2019-05-15T16:01:12",
+            "popularity": 0.572,
+            "venue": {
+                "links": [],
+                "metro_code": 635,
+                "postal_code": "78712",
+                "timezone": "America/Chicago",
+                "has_upcoming_events": true,
+                "id": 57537,
+                "city": "Austin",
+                "extended_address": "Austin, TX 78712",
+                "display_location": "Austin, TX",
+                "state": "TX",
+                "score": 0.44881788,
+                "location": {
+                    "lat": 30.2816,
+                    "lon": -97.7327
+                },
+                "access_method": null,
+                "num_upcoming_events": 9,
+                "address": "2101 Speedway",
+                "capacity": 0,
+                "slug": "gregory-gym",
+                "name": "Gregory Gym",
+                "url": "https://seatgeek.com/venues/gregory-gym/tickets",
+                "country": "US",
+                "popularity": 0,
+                "name_v2": "Gregory Gym"
+            },
+            "enddatetime_utc": null,
+            "short_title": "Texas Longhorns at Texas Longhorns Volleyball",
+            "datetime_utc": "2019-09-28T18:00:00",
+            "datetime_tbd": false
+        },
+        {
+            "links": [],
+            "event_promotion": null,
+            "conditional": false,
+            "is_open": true,
+            "id": 5013804,
+            "stats": {
+                "visible_listing_count": 1,
+                "dq_bucket_counts": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "average_price": 40,
+                "lowest_sg_base_price_good_deals": null,
+                "lowest_price_good_deals": null,
+                "median_price": 40,
+                "listing_count": 1,
+                "variants": null,
+                "lowest_price": 40,
+                "lowest_sg_base_price": 35,
+                "highest_price": 40
+            },
+            "title": "Buscando el Rey de Chicago",
+            "announce_date": "2019-09-20T00:00:00",
+            "score": 0,
+            "access_method": null,
+            "announcements": {},
+            "taxonomies": [
+                {
+                    "name": "sports",
+                    "parent_id": null,
+                    "id": 1000000
+                }
+            ],
+            "type": "sports",
+            "status": "normal",
+            "description": "",
+            "datetime_local": "2019-09-28T13:00:00",
+            "visible_until_utc": "2019-09-28T22:00:00",
+            "time_tbd": false,
+            "date_tbd": false,
+            "performers": [
+                {
+                    "image": "https://seatgeek.com/images/performers-landscape/buscando-el-rey-de-chicago-b73b4d/766692/huge.jpg",
+                    "primary": true,
+                    "colors": null,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/buscando-el-rey-de-chicago-b73b4d/766692/huge.jpg"
+                    },
+                    "has_upcoming_events": true,
+                    "id": 766692,
+                    "stats": {
+                        "event_count": 1
+                    },
+                    "image_license": "null",
+                    "score": 0,
+                    "location": null,
+                    "taxonomies": [
+                        {
+                            "name": "sports",
+                            "parent_id": null,
+                            "id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "type": "sports",
+                    "num_upcoming_events": 1,
+                    "short_name": "Buscando el Rey de Chicago",
+                    "home_venue_id": null,
+                    "slug": "buscando-el-rey-de-chicago",
+                    "divisions": null,
+                    "name": "Buscando el Rey de Chicago",
+                    "url": "https://seatgeek.com/buscando-el-rey-de-chicago-tickets",
+                    "popularity": 0,
+                    "image_attribution": "null"
+                },
+                {
+                    "image": null,
+                    "colors": null,
+                    "images": {},
+                    "has_upcoming_events": true,
+                    "id": 766693,
+                    "stats": {
+                        "event_count": 1
+                    },
+                    "image_license": null,
+                    "score": 0,
+                    "location": null,
+                    "taxonomies": [
+                        {
+                            "name": "sports",
+                            "parent_id": null,
+                            "id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "type": "sports",
+                    "num_upcoming_events": 1,
+                    "short_name": "BDA. Chilacachapa",
+                    "home_venue_id": null,
+                    "slug": "bda-chilacachapa",
+                    "divisions": null,
+                    "name": "BDA. Chilacachapa",
+                    "url": "https://seatgeek.com/bda-chilacachapa-tickets",
+                    "popularity": 0,
+                    "image_attribution": null
+                }
+            ],
+            "url": "https://seatgeek.com/buscando-el-rey-de-chicago-tickets/sport/2019-09-28-1-pm/5013804",
+            "created_at": "2019-09-20T17:37:33",
+            "popularity": 0,
+            "venue": {
+                "links": [],
+                "metro_code": 602,
+                "postal_code": "",
+                "timezone": "America/Chicago",
+                "has_upcoming_events": true,
+                "id": 466353,
+                "city": "Bridgeview",
+                "extended_address": "Bridgeview, IL ",
+                "display_location": "Bridgeview, IL",
+                "state": "IL",
+                "score": 0,
+                "location": {
+                    "lat": 41.7648,
+                    "lon": -87.8062
+                },
+                "access_method": null,
+                "num_upcoming_events": 1,
+                "address": "7000 S. Harlem Ave.",
+                "capacity": 0,
+                "slug": "satellite-events-at-seatgeek-stadium",
+                "name": "Satellite Events at SeatGeek Stadium",
+                "url": "https://seatgeek.com/venues/satellite-events-at-seatgeek-stadium/tickets",
+                "country": "US",
+                "popularity": 0,
+                "name_v2": "Satellite Events at SeatGeek Stadium"
+            },
+            "enddatetime_utc": null,
+            "short_title": "Buscando el Rey de Chicago",
+            "datetime_utc": "2019-09-28T18:00:00",
+            "datetime_tbd": false
+        },
+        {
+            "links": [],
+            "event_promotion": null,
+            "conditional": false,
+            "is_open": false,
+            "id": 4849282,
+            "stats": {
+                "visible_listing_count": 1,
+                "dq_bucket_counts": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "average_price": 102,
+                "lowest_sg_base_price_good_deals": null,
+                "lowest_price_good_deals": null,
+                "median_price": 102,
+                "listing_count": 1,
+                "variants": null,
+                "lowest_price": 102,
+                "lowest_sg_base_price": 76,
+                "highest_price": 102
+            },
+            "title": "Monster Jam",
+            "announce_date": "2019-05-02T00:00:00",
+            "score": 0.381,
+            "access_method": {
+                "employee_only": false,
+                "created_at": "2015-07-28T00:00:00Z",
+                "method": "QRCODE_TM"
+            },
+            "announcements": {},
+            "taxonomies": [
+                {
+                    "name": "sports",
+                    "parent_id": null,
+                    "id": 1000000
+                },
+                {
+                    "name": "auto_racing",
+                    "parent_id": 1000000,
+                    "id": 1060000
+                },
+                {
+                    "name": "monster_truck",
+                    "parent_id": 1060000,
+                    "id": 1060400
+                }
+            ],
+            "type": "monster_truck",
+            "status": "normal",
+            "description": "",
+            "datetime_local": "2019-09-28T13:00:00",
+            "visible_until_utc": "2019-09-28T22:00:00",
+            "time_tbd": false,
+            "date_tbd": false,
+            "performers": [
+                {
+                    "image": "https://seatgeek.com/images/performers-landscape/monster-jam-5bc311/268745/huge.jpg",
+                    "colors": null,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/monster-jam-5bc311/268745/huge.jpg"
+                    },
+                    "has_upcoming_events": true,
+                    "id": 268745,
+                    "stats": {
+                        "event_count": 30
+                    },
+                    "image_license": "https://creativecommons.org/licenses/by/2.0/",
+                    "score": 0.61,
+                    "location": null,
+                    "taxonomies": [
+                        {
+                            "name": "sports",
+                            "parent_id": null,
+                            "id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "name": "auto_racing",
+                            "parent_id": 1000000,
+                            "id": 1060000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "name": "monster_truck",
+                            "parent_id": 1060000,
+                            "id": 1060400,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "type": "monster_truck",
+                    "num_upcoming_events": 30,
+                    "short_name": "Monster Jam",
+                    "home_venue_id": null,
+                    "slug": "monster-jam",
+                    "divisions": null,
+                    "name": "Monster Jam",
+                    "url": "https://seatgeek.com/monster-jam-tickets",
+                    "popularity": 0,
+                    "image_attribution": "https://www.flickr.com/photos/b0jangles/5443673193/"
+                },
+                {
+                    "image": null,
+                    "primary": true,
+                    "colors": null,
+                    "images": {},
+                    "has_upcoming_events": true,
+                    "id": 597884,
+                    "stats": {
+                        "event_count": 5
+                    },
+                    "image_license": null,
+                    "score": 0.58,
+                    "location": null,
+                    "taxonomies": [
+                        {
+                            "name": "sports",
+                            "parent_id": null,
+                            "id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "name": "auto_racing",
+                            "parent_id": 1000000,
+                            "id": 1060000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "type": "auto_racing",
+                    "num_upcoming_events": 5,
+                    "short_name": "Monster Jam Triple Threat Series",
+                    "home_venue_id": null,
+                    "slug": "monster-jam-triple-threat-series",
+                    "divisions": null,
+                    "name": "Monster Jam Triple Threat Series",
+                    "url": "https://seatgeek.com/monster-jam-triple-threat-series-tickets",
+                    "popularity": 0,
+                    "image_attribution": null
+                }
+            ],
+            "url": "https://seatgeek.com/monster-jam-tickets/monster-truck/2019-09-28-1-pm/4849282",
+            "created_at": "2019-05-02T16:00:35",
+            "popularity": 0.573,
+            "venue": {
+                "links": [],
+                "metro_code": 602,
+                "postal_code": "60018",
+                "timezone": "America/Chicago",
+                "has_upcoming_events": true,
+                "id": 122,
+                "city": "Rosemont",
+                "extended_address": "Rosemont, IL 60018",
+                "display_location": "Rosemont, IL",
+                "state": "IL",
+                "score": 0.7347829,
+                "location": {
+                    "lat": 41.9575,
+                    "lon": -87.8845
+                },
+                "access_method": {
+                    "employee_only": false,
+                    "created_at": "2015-07-28T00:00:00Z",
+                    "method": "QRCODE_TM"
+                },
+                "num_upcoming_events": 70,
+                "address": "6920 N. Mannheim Rd.",
+                "capacity": 18500,
+                "slug": "allstate-arena",
+                "name": "Allstate Arena",
+                "url": "https://seatgeek.com/venues/allstate-arena/tickets",
+                "country": "US",
+                "popularity": 0,
+                "name_v2": "Allstate Arena"
+            },
+            "enddatetime_utc": null,
+            "short_title": "Monster Jam",
+            "datetime_utc": "2019-09-28T18:00:00",
+            "datetime_tbd": false
+        },
+        {
+            "links": [],
+            "event_promotion": null,
+            "conditional": false,
+            "is_open": false,
+            "id": 4888552,
+            "stats": {
+                "visible_listing_count": null,
+                "dq_bucket_counts": null,
+                "average_price": null,
+                "lowest_sg_base_price_good_deals": null,
+                "lowest_price_good_deals": null,
+                "median_price": null,
+                "listing_count": null,
+                "variants": null,
+                "lowest_price": null,
+                "lowest_sg_base_price": null,
+                "highest_price": null
+            },
+            "title": "Kansas State Wildcats at TCU Horned Frogs Womens Volleyball",
+            "announce_date": "2019-06-08T00:00:00",
+            "score": 0,
+            "access_method": null,
+            "announcements": {},
+            "taxonomies": [
+                {
+                    "name": "sports",
+                    "parent_id": null,
+                    "id": 1000000
+                }
+            ],
+            "type": "sports",
+            "status": "normal",
+            "description": "",
+            "datetime_local": "2019-09-28T13:00:00",
+            "visible_until_utc": "2019-09-28T22:00:00",
+            "time_tbd": false,
+            "date_tbd": false,
+            "performers": [
+                {
+                    "image": "https://seatgeek.com/images/performers-landscape/tcu-horned-frogs-womens-volleyball-2b46fa/297953/huge.jpg",
+                    "primary": true,
+                    "colors": null,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/tcu-horned-frogs-womens-volleyball-2b46fa/297953/huge.jpg"
+                    },
+                    "has_upcoming_events": true,
+                    "id": 297953,
+                    "stats": {
+                        "event_count": 11
+                    },
+                    "image_license": "null",
+                    "score": 0.46,
+                    "location": null,
+                    "taxonomies": [
+                        {
+                            "name": "sports",
+                            "parent_id": null,
+                            "id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "type": "sports",
+                    "num_upcoming_events": 11,
+                    "short_name": "TCU Horned Frogs Womens Volleyball",
+                    "home_venue_id": null,
+                    "slug": "tcu-horned-frogs-womens-volleyball",
+                    "divisions": null,
+                    "name": "TCU Horned Frogs Womens Volleyball",
+                    "url": "https://seatgeek.com/tcu-horned-frogs-womens-volleyball-tickets",
+                    "popularity": 0,
+                    "image_attribution": "null"
+                },
+                {
+                    "image": "https://seatgeek.com/images/performers-landscape/kansas-state-wildcats-womens-volleyball-9c2e63/631427/huge.jpg",
+                    "colors": null,
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/kansas-state-wildcats-womens-volleyball-9c2e63/631427/huge.jpg"
+                    },
+                    "has_upcoming_events": true,
+                    "id": 631427,
+                    "stats": {
+                        "event_count": 5
+                    },
+                    "image_license": "null",
+                    "score": 0.36,
+                    "location": null,
+                    "taxonomies": [
+                        {
+                            "name": "sports",
+                            "parent_id": null,
+                            "id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "type": "sports",
+                    "num_upcoming_events": 5,
+                    "short_name": "Kansas State Wildcats Womens Volleyball",
+                    "home_venue_id": null,
+                    "slug": "kansas-state-wildcats-womens-volleyball",
+                    "divisions": null,
+                    "name": "Kansas State Wildcats Womens Volleyball",
+                    "url": "https://seatgeek.com/kansas-state-wildcats-womens-volleyball-tickets",
+                    "popularity": 0,
+                    "image_attribution": "null"
+                }
+            ],
+            "url": "https://seatgeek.com/kansas-state-wildcats-at-tcu-horned-frogs-womens-volleyball-tickets/sport/2019-09-28-1-pm/4888552",
+            "created_at": "2019-06-08T16:00:25",
+            "popularity": 0,
+            "venue": {
+                "links": [],
+                "metro_code": 623,
+                "postal_code": "76109",
+                "timezone": "America/Chicago",
+                "has_upcoming_events": true,
+                "id": 463504,
+                "city": "Fort Worth",
+                "extended_address": "Fort Worth, TX 76109",
+                "display_location": "Fort Worth, TX",
+                "state": "TX",
+                "score": 0,
+                "location": {
+                    "lat": 32.7115,
+                    "lon": -97.3605
+                },
+                "access_method": null,
+                "num_upcoming_events": 15,
+                "address": "2800 South University Drive",
+                "capacity": 0,
+                "slug": "university-rec-center-at-tcu",
+                "name": "University Rec Center at TCU",
+                "url": "https://seatgeek.com/venues/university-rec-center-at-tcu/tickets",
+                "country": "US",
+                "popularity": 0,
+                "name_v2": "University Rec Center at TCU"
+            },
+            "enddatetime_utc": null,
+            "short_title": "Kansas State Wildcats at TCU Horned Frogs Womens Volleyball",
+            "datetime_utc": "2019-09-28T18:00:00",
+            "datetime_tbd": false
+        },
+        {
+            "links": [],
+            "event_promotion": null,
+            "conditional": false,
+            "is_open": false,
+            "id": 4612813,
+            "stats": {
+                "visible_listing_count": 49,
+                "dq_bucket_counts": [
+                    5,
+                    14,
+                    12,
+                    2,
+                    5,
+                    6,
+                    8,
+                    0
+                ],
+                "average_price": 58,
+                "lowest_sg_base_price_good_deals": 14,
+                "lowest_price_good_deals": 21,
+                "median_price": 51,
+                "listing_count": 52,
+                "variants": null,
+                "lowest_price": 21,
+                "lowest_sg_base_price": 14,
+                "highest_price": 296
+            },
+            "title": "Minnesota Twins at Kansas City Royals",
+            "announce_date": "2018-10-31T00:00:00",
+            "score": 0.685,
+            "access_method": {
+                "employee_only": false,
+                "created_at": "2015-10-26T23:08:54Z",
+                "method": "PDF417"
+            },
+            "announcements": {},
+            "taxonomies": [
+                {
+                    "name": "sports",
+                    "parent_id": null,
+                    "id": 1000000
+                },
+                {
+                    "name": "baseball",
+                    "parent_id": 1000000,
+                    "id": 1010000
+                },
+                {
+                    "name": "mlb",
+                    "parent_id": 1010000,
+                    "id": 1010100
+                }
+            ],
+            "type": "mlb",
+            "status": "normal",
+            "description": "",
+            "datetime_local": "2019-09-28T13:15:00",
+            "visible_until_utc": "2019-09-28T22:15:00",
+            "time_tbd": false,
+            "date_tbd": false,
+            "performers": [
+                {
+                    "image": "https://seatgeek.com/images/performers-landscape/kansas-city-royals-09feb4/5/huge.jpg",
+                    "primary": true,
+                    "colors": {
+                        "all": [
+                            "#004687",
+                            "#BD9B60",
+                            "#004687"
+                        ],
+                        "iconic": "#004687",
+                        "primary": [
+                            "#004687",
+                            "#BD9B60"
+                        ]
+                    },
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/kansas-city-royals-09feb4/5/huge.jpg"
+                    },
+                    "has_upcoming_events": true,
+                    "id": 5,
+                    "stats": {
+                        "event_count": 2
+                    },
+                    "image_license": "https://creativecommons.org/licenses/by/2.0/",
+                    "score": 0.69,
+                    "location": {
+                        "lat": 39.0509,
+                        "lon": -94.4809
+                    },
+                    "taxonomies": [
+                        {
+                            "name": "sports",
+                            "parent_id": null,
+                            "id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "name": "baseball",
+                            "parent_id": 1000000,
+                            "id": 1010000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "name": "mlb",
+                            "parent_id": 1010000,
+                            "id": 1010100,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "type": "mlb",
+                    "num_upcoming_events": 2,
+                    "short_name": "Royals",
+                    "home_venue_id": 3714,
+                    "slug": "kansas-city-royals",
+                    "divisions": [
+                        {
+                            "display_name": "American League",
+                            "short_name": null,
+                            "division_level": 1,
+                            "display_type": "League",
+                            "taxonomy_id": 1010100,
+                            "slug": null
+                        },
+                        {
+                            "display_name": "American League Central",
+                            "short_name": "AL Central",
+                            "division_level": 2,
+                            "display_type": "Division",
+                            "taxonomy_id": 1010100,
+                            "slug": "american-league-central"
+                        }
+                    ],
+                    "home_team": true,
+                    "name": "Kansas City Royals",
+                    "url": "https://seatgeek.com/kansas-city-royals-tickets",
+                    "popularity": 0,
+                    "image_attribution": "https://www.flickr.com/photos/bryce_edwards/7828767764/in/photolist-cVNtUy-9MgjsL-9MhfQf-c3rLRs-c3sBbq-c3snfJ-c3sd19-c3scxf-c3s4tu-c3ryVs-c3syJj-c3s7KC-c3rYgh-c3rRsN-c3rZ8N-c3rXXC-c3sn1m-c3rBXC-c3rN27-c3rziC-c3rJmE-c3rvn7-c3rWs1-c3szjG-c3rJVd-c3sr2s-c3rWKh-c3sbFJ-c3sFSh-c3sgLd-c3s2UY-c3rG4d-c3ryAj-c3smHQ-c3s7sS-c3rX2Q-c3sCKq-c3rURY-c3rwo5-c3sfhN-c3si93-c3shP9-c3sfSN-c3sipm-c3sg9U-c3seXA-c3seEd-c3shhs-c3sfzb-9LHr46"
+                },
+                {
+                    "image": "https://seatgeek.com/images/performers-landscape/minnesota-twins-402aa7/19/huge.jpg",
+                    "colors": {
+                        "all": [
+                            "#002B5C",
+                            "#D31145",
+                            "#002B5C"
+                        ],
+                        "iconic": "#002B5C",
+                        "primary": [
+                            "#002B5C",
+                            "#D31145"
+                        ]
+                    },
+                    "images": {
+                        "huge": "https://seatgeek.com/images/performers-landscape/minnesota-twins-402aa7/19/huge.jpg"
+                    },
+                    "has_upcoming_events": true,
+                    "id": 19,
+                    "away_team": true,
+                    "stats": {
+                        "event_count": 16
+                    },
+                    "image_license": "https://creativecommons.org/licenses/by-sa/2.0/",
+                    "score": 0.7,
+                    "location": {
+                        "lat": 44.9805,
+                        "lon": -93.2779
+                    },
+                    "taxonomies": [
+                        {
+                            "name": "sports",
+                            "parent_id": null,
+                            "id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "name": "baseball",
+                            "parent_id": 1000000,
+                            "id": 1010000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "name": "mlb",
+                            "parent_id": 1010000,
+                            "id": 1010100,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "type": "mlb",
+                    "num_upcoming_events": 16,
+                    "short_name": "Twins",
+                    "home_venue_id": 3712,
+                    "slug": "minnesota-twins",
+                    "divisions": [
+                        {
+                            "display_name": "American League",
+                            "short_name": null,
+                            "division_level": 1,
+                            "display_type": "League",
+                            "taxonomy_id": 1010100,
+                            "slug": null
+                        },
+                        {
+                            "display_name": "American League Central",
+                            "short_name": "AL Central",
+                            "division_level": 2,
+                            "display_type": "Division",
+                            "taxonomy_id": 1010100,
+                            "slug": "american-league-central"
+                        }
+                    ],
+                    "name": "Minnesota Twins",
+                    "url": "https://seatgeek.com/minnesota-twins-tickets",
+                    "popularity": 0,
+                    "image_attribution": "https://www.flickr.com/photos/ekilby/4925516994/in/photolist-8vfyAN-7jsWXe-8Co8gh-8vfys1-9EbSVm-8vcvYn-a3uCNw-pwwc2F-djq9aM-jKSkKf-8vcvRc-jGTfZi-72vcw-bNrHnM-bzx4CU-8FGazW-sLxxSK-sLxBX8-nptEK4-nFWUDS-nFFouF-sLmgaQ-nFFiUD-n6ga3g-sLmfe1-stXtuN-nFWZaW-nDVC5L-66L7Mk-sLxCXz-7TBVHC-nHDWy4-nHDUon-nHDUrt-nFRdFL-nFzBi8-nFRcNJ-nFzBZD-nFRe1d-nHDVhg-nHDWNT-nFEMML-npod4B-npo58E-nFzCxn-nFRcEY-nFEMzm-npo5fo-nHDUPH-npnQW8"
+                }
+            ],
+            "url": "https://seatgeek.com/twins-at-royals-tickets/9-28-2019-kansas-city-missouri-kauffman-stadium/mlb/4612813",
+            "created_at": "2018-10-31T16:14:51",
+            "popularity": 0.777,
+            "venue": {
+                "links": [],
+                "metro_code": 616,
+                "postal_code": "64129",
+                "timezone": "America/Chicago",
+                "has_upcoming_events": true,
+                "id": 3714,
+                "city": "Kansas City",
+                "extended_address": "Kansas City, MO 64129",
+                "display_location": "Kansas City, MO",
+                "state": "MO",
+                "score": 0.81389135,
+                "location": {
+                    "lat": 39.0509,
+                    "lon": -94.4809
+                },
+                "access_method": {
+                    "employee_only": false,
+                    "created_at": "2015-10-26T23:08:54Z",
+                    "method": "PDF417"
+                },
+                "num_upcoming_events": 2,
+                "address": "1 Royal Way",
+                "capacity": 40950,
+                "slug": "kauffman-stadium",
+                "name": "Kauffman Stadium",
+                "url": "https://seatgeek.com/venues/kauffman-stadium/tickets",
+                "country": "US",
+                "popularity": 0,
+                "name_v2": "Kauffman Stadium"
+            },
+            "enddatetime_utc": null,
+            "short_title": "Twins at Royals",
+            "datetime_utc": "2019-09-28T18:15:00",
+            "datetime_tbd": false
+        },
+        {
+            "links": [],
+            "event_promotion": null,
+            "conditional": false,
+            "is_open": false,
+            "id": 4748174,
+            "stats": {
+                "visible_listing_count": 2,
+                "dq_bucket_counts": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "average_price": 68,
+                "lowest_sg_base_price_good_deals": null,
+                "lowest_price_good_deals": null,
+                "median_price": 57,
+                "listing_count": 2,
+                "variants": null,
+                "lowest_price": 57,
+                "lowest_sg_base_price": 42,
+                "highest_price": 79
+            },
+            "title": "Jacksonville State Gamecocks at Austin Peay Governors Football",
+            "announce_date": "2019-02-15T00:00:00",
+            "score": 0,
+            "access_method": null,
+            "announcements": {},
+            "taxonomies": [
+                {
+                    "name": "sports",
+                    "parent_id": null,
+                    "id": 1000000
+                },
+                {
+                    "name": "football",
+                    "parent_id": 1000000,
+                    "id": 1020000
+                },
+                {
+                    "name": "ncaa_football",
+                    "parent_id": 1020000,
+                    "id": 1020200
+                }
+            ],
+            "type": "ncaa_football",
+            "status": "normal",
+            "description": "",
+            "datetime_local": "2019-09-28T14:00:00",
+            "visible_until_utc": "2019-09-28T23:00:00",
+            "time_tbd": false,
+            "date_tbd": false,
+            "performers": [
+                {
+                    "image": null,
+                    "primary": true,
+                    "colors": null,
+                    "images": {},
+                    "has_upcoming_events": true,
+                    "id": 7378,
+                    "stats": {
+                        "event_count": 10
+                    },
+                    "image_license": null,
+                    "score": 0.74,
+                    "location": {
+                        "lat": 36.5332,
+                        "lon": -87.3539
+                    },
+                    "taxonomies": [
+                        {
+                            "name": "sports",
+                            "parent_id": null,
+                            "id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "name": "football",
+                            "parent_id": 1000000,
+                            "id": 1020000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "name": "ncaa_football",
+                            "parent_id": 1020000,
+                            "id": 1020200,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "type": "ncaa_football",
+                    "num_upcoming_events": 10,
+                    "short_name": "Austin Peay",
+                    "home_venue_id": 6040,
+                    "slug": "austin-peay-governors-football",
+                    "divisions": [
+                        {
+                            "display_name": "Championship Subdivision",
+                            "short_name": null,
+                            "division_level": 1,
+                            "display_type": "Division",
+                            "taxonomy_id": 1020200,
+                            "slug": null
+                        },
+                        {
+                            "display_name": "Ohio Valley",
+                            "short_name": "Ohio Valley",
+                            "division_level": 2,
+                            "display_type": "Conference",
+                            "taxonomy_id": 1020200,
+                            "slug": "ohio-valley"
+                        }
+                    ],
+                    "home_team": true,
+                    "name": "Austin Peay Governors Football",
+                    "url": "https://seatgeek.com/austin-peay-governors-football-tickets",
+                    "popularity": 0,
+                    "image_attribution": null
+                },
+                {
+                    "image": null,
+                    "colors": null,
+                    "images": {},
+                    "has_upcoming_events": true,
+                    "id": 7424,
+                    "away_team": true,
+                    "stats": {
+                        "event_count": 14
+                    },
+                    "image_license": null,
+                    "score": 0.41,
+                    "location": {
+                        "lat": 33.8235,
+                        "lon": -85.7633
+                    },
+                    "taxonomies": [
+                        {
+                            "name": "sports",
+                            "parent_id": null,
+                            "id": 1000000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "name": "football",
+                            "parent_id": 1000000,
+                            "id": 1020000,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        },
+                        {
+                            "name": "ncaa_football",
+                            "parent_id": 1020000,
+                            "id": 1020200,
+                            "document_source": {
+                                "source_type": "ELASTIC",
+                                "generation_type": "FULL"
+                            }
+                        }
+                    ],
+                    "type": "ncaa_football",
+                    "num_upcoming_events": 14,
+                    "short_name": "Jacksonville State",
+                    "home_venue_id": 60243,
+                    "slug": "jacksonville-state-gamecocks-football",
+                    "divisions": [
+                        {
+                            "display_name": "Championship Subdivision",
+                            "short_name": null,
+                            "division_level": 1,
+                            "display_type": "Division",
+                            "taxonomy_id": 1020200,
+                            "slug": null
+                        },
+                        {
+                            "display_name": "Ohio Valley",
+                            "short_name": "Ohio Valley",
+                            "division_level": 2,
+                            "display_type": "Conference",
+                            "taxonomy_id": 1020200,
+                            "slug": "ohio-valley"
+                        }
+                    ],
+                    "name": "Jacksonville State Gamecocks Football",
+                    "url": "https://seatgeek.com/jacksonville-state-gamecocks-football-tickets",
+                    "popularity": 0,
+                    "image_attribution": null
+                }
+            ],
+            "url": "https://seatgeek.com/jacksonville-state-gamecocks-at-austin-peay-governors-football-tickets/ncaa-football/2019-09-28-2-pm/4748174",
+            "created_at": "2019-02-15T16:00:57",
+            "popularity": 0,
+            "venue": {
+                "links": [],
+                "metro_code": 659,
+                "postal_code": "37044",
+                "timezone": "America/Chicago",
+                "has_upcoming_events": true,
+                "id": 6040,
+                "city": "Clarksville",
+                "extended_address": "Clarksville, TN 37044",
+                "display_location": "Clarksville, TN",
+                "state": "TN",
+                "score": 0,
+                "location": {
+                    "lat": 36.5332,
+                    "lon": -87.3539
+                },
+                "access_method": null,
+                "num_upcoming_events": 5,
+                "address": "601 College St",
+                "capacity": 0,
+                "slug": "fortera-stadium",
+                "name": "Fortera Stadium",
+                "url": "https://seatgeek.com/venues/fortera-stadium/tickets",
+                "country": "US",
+                "popularity": 0,
+                "name_v2": "Fortera Stadium"
+            },
+            "enddatetime_utc": null,
+            "short_title": "Jacksonville State at Austin Peay",
+            "datetime_utc": "2019-09-28T19:00:00",
+            "datetime_tbd": false
+        }
+    ]
+}

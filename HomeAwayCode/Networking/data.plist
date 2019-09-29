@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apilink</key>
+	<string>https://api.seatgeek.com/2/events</string>
+	<key>token</key>
+	<string>MTg2MzU1Nzh8MTU2OTYyODU4OS41OA</string>
+	<key>savedFav</key>
+	<array>
+		<string>4980918</string>
+	</array>
+</dict>
+</plist>
