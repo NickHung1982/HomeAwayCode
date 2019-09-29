@@ -10,8 +10,11 @@ import Foundation
 import UIKit
 
 final class MainViewModel: NSObject {
+    //loading status flag
     let isLoading = Observable<Bool>(value: false)
+    //table view hidden flag
     let isTableViewHidden = Observable<Bool>(value: false)
+    //stored object array
     let eventList = Observable<[EventItem]>(value: [])
     //fav list
     var favList = Helper.readFavList()

@@ -39,8 +39,8 @@ class MainTableViewController: UITableViewController {
         search.searchResultsUpdater = self
         self.navigationItem.searchController = search
         
-        initBinding()
-        viewModel.start()
+        initBinding() //add listener
+        viewModel.start() //fetch data
         
     }
     override func viewDidAppear(_ animated: Bool) {

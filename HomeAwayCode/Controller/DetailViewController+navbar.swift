@@ -11,6 +11,7 @@ import UIKit
 
 //actions for navbar
 extension DetailViewController {
+    
     @IBAction func clickBackToMain(_ sender: Any) {
          _ = navigationController?.popViewController(animated: true)
     }

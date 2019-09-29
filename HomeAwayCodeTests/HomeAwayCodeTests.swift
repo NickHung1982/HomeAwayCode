@@ -10,8 +10,17 @@ import XCTest
 @testable import HomeAwayCode
 
 class HomeAwayCodeTests: XCTestCase {
-
+    var item: EventItem!
+    var mvm: MainViewModel!
+    var dvm: DetailViewModel!
+    
     override func setUp() {
+        mvm = MainViewModel(Source: .All)
+        let performer1 = Performers(image: nil, id:55)
+        let performer2 = Performers(image: nil, id:56)
+        let vanue = Venue(postal_code: "55688", city: "Brooklyn", display_location: "Brooklyn, NY")
+        item = EventItem(id: 1234, title: "test", datetime_local: "2019-09-28T03:30:00", performers: [performer1,performer2], venue: vanue, is_open: false)
+        
         // Put setup code here. This method is called before the invocation of each test method in the class.
     }
 
@@ -28,6 +37,15 @@ class HomeAwayCodeTests: XCTestCase {
         }
     }
 
+    func testReadAPILinkFromPlist() {
+        if let path = Bundle.main.path(forResource: "data", ofType: "plist"),
+            let myDict = NSDictionary(contentsOfFile: path){
+            if let linkString = myDict["apilink"] as? String {
+                XCTAssertEqual(linkString, "https://api.seatgeek.com/2/events", "read link success")
+            }
+        }
+    }
+    
     func testWriteFavIDToPlist(){
         guard let beforelist = Helper.readFavList() else {
             return
@@ -111,4 +129,13 @@ class HomeAwayCodeTests: XCTestCase {
 
     }
 
+    //ViewModel test
+    func testMainViewModelInit() {
+        // title should be all events
+        let mvm = MainViewModel(Source: .Sporting)
+        XCTAssertEqual(mvm.sourceType.pathName, "Sporting")
+        
+    }
+    
+   
 }
